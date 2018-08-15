@@ -1,0 +1,1 @@
+# openmp_project1A
